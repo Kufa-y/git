@@ -1,1 +1,2 @@
 Hari ini saya belajar Git 
+Sekarang saya belajar commit 
